@@ -54,10 +54,10 @@
 
 ### 2. 모델 개발
 - **개별 모델**:
-  - Random Forest
-  - Gradient Boosting
-  - LSTM (Long Short-Term Memory)
-  - XGBoost
+  - Extra Trees (ExtraTreesRegressor)
+  - CatBoost
+  - XGBoost (XGB)
+  - LightGBM (LGBM)
   
 - **앙상블 기법**:
   - Stacking
