@@ -1,4 +1,4 @@
-# 🏆 2025 기상청 날씨 빅데이터 콘테스트 수상작
+# 🏆 2025 기상청 날씨 빅데이터 콘테스트
 
 [![Award](https://img.shields.io/badge/Award-Winner-gold.svg)](https://github.com/CocoaSoymilk/WeatherBigDataContest)
 [![Category](https://img.shields.io/badge/Category-BigData-blue.svg)](https://github.com/CocoaSoymilk/WeatherBigDataContest)
@@ -6,6 +6,7 @@
 
 > **기상 조건 기반 열수요 예측 정확도 향상을 위한 다중 모델 앙상블 시스템 연구**  
 > 정환웅, 배성민
+> 한국지역난방공사장상 수상
 
 ---
 
